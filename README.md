@@ -1,4 +1,4 @@
-# 💼 Sai Nishitha - Advanced Portfolio
+# 💼 Sai Nishitha - Portfolio
 
 A personal portfolio built with HTML, CSS, and JavaScript, showcasing my skills, experience, and contact details.
 
